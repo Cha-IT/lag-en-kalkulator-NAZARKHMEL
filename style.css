@@ -1,0 +1,26 @@
+.bd {
+    background-image: url("img.gif");
+}
+.bd2 {
+    background-image: url("img2.gif");
+    background-size: cover;
+}
+
+.txt{
+    color: yellow;
+}
+
+.btn {
+    width: 150px;
+    color: yellow;
+    background: black;
+    border: yellow 2px;
+
+}
+
+.btn1 {
+    width: 150px;
+    color: yellow;
+    background: black;
+    border: yellow 2px;
+}
