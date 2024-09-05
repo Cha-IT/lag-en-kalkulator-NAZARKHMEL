@@ -3,7 +3,7 @@ let t2 = document.getElementById("t2");
 let res = document.getElementById("res");
 
 function plus(){
-    res.innerHTML = "Res: " + Number(t1.value) + Number(t2.value);
+    res.innerHTML = "Res: " + (Number(t1.value) + Number(t2.value));
 }
 function minus(){
     res.innerHTML = "Res: " + (Number(t1.value) - Number(t2.value));
